@@ -2,7 +2,7 @@
 - The objective from this project is to create a <b>Logistic Regression Classifier</b> to predict the <b>Stroke Condition</b> using <b>pyspark</b>.
 - <b>Stoke</b> is a condition in which either the blood flow to the brain stops or blood flow is excessive.
 
-### Data:
+## Data:
 - Data is provided in csv format in a file named <b>healthcare-dataset-stroke-data.csv</b>
 
 ### Column names and data types are as follow:
